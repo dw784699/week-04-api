@@ -1,4 +1,13 @@
-# Week 4 FastAPI PostgreSQL CRUD API
+# Week 4 FastAPI PostgreSQL CRUD API  # Week 4 FastAPI PostgreSQL CRUD API
+
+## Project Description
+
+This project is a Book Tracker API built with FastAPI and PostgreSQL.
+It supports full CRUD operations for managing books.
+Docker was used to run the PostgreSQL database container.
+Swagger UI was used for API testing.
+
+## Features
 
 ## Features
 
